@@ -50,7 +50,6 @@ C:\Users\askha\Downloads\active-directory-b2c-dotnetcore-webapp-master\B2C\obj\D
 C:\Users\askha\Downloads\active-directory-b2c-dotnetcore-webapp-master\B2C\obj\Debug\netcoreapp3.1\B2C.genruntimeconfig.cache
 C:\_dev\_github\AzureAD-B2C\Azure.AD.B2C\B2C\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\_dev\_github\AzureAD-B2C\Azure.AD.B2C\B2C\bin\Debug\netcoreapp3.1\appsettings.json
-C:\_dev\_github\AzureAD-B2C\Azure.AD.B2C\B2C\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\_dev\_github\AzureAD-B2C\Azure.AD.B2C\B2C\bin\Debug\netcoreapp3.1\B2C.exe
 C:\_dev\_github\AzureAD-B2C\Azure.AD.B2C\B2C\bin\Debug\netcoreapp3.1\B2C.deps.json
 C:\_dev\_github\AzureAD-B2C\Azure.AD.B2C\B2C\bin\Debug\netcoreapp3.1\B2C.runtimeconfig.json
@@ -97,3 +96,5 @@ C:\_dev\_github\AzureAD-B2C\Azure.AD.B2C\B2C\obj\Debug\netcoreapp3.1\staticwebas
 C:\_dev\_github\AzureAD-B2C\Azure.AD.B2C\B2C\obj\Debug\netcoreapp3.1\B2C.dll
 C:\_dev\_github\AzureAD-B2C\Azure.AD.B2C\B2C\obj\Debug\netcoreapp3.1\B2C.pdb
 C:\_dev\_github\AzureAD-B2C\Azure.AD.B2C\B2C\obj\Debug\netcoreapp3.1\B2C.genruntimeconfig.cache
+C:\_dev\_github\AzureAD-B2C\Azure.AD.B2C\B2C\obj\Debug\netcoreapp3.1\B2C.csprojAssemblyReference.cache
+C:\_dev\_github\AzureAD-B2C\Azure.AD.B2C\B2C\obj\Debug\netcoreapp3.1\scopedcss\bundle\B2C.styles.css
